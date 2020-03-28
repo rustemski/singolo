@@ -109,6 +109,8 @@ body {
 
 .navigation__link--active,
 .navigation__link:active {
+  /* border: 5px solid #F06C64;
+  filter: brightness(50%); */
   color: var(--color__header-active);
 }
 
@@ -183,6 +185,7 @@ body {
   position: relative;
   width: 215px;
   height: 458px;
+  
 }
 
 .image__screen {
